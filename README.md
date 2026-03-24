@@ -1,36 +1,85 @@
-# AI Mental Health Chatbot
+ 🧠 Safe Space – AI Mental Health Chatbot
 
-## 🧠 Overview
-This project is an NLP-based chatbot designed to provide basic mental health support through real-time user interaction.
+## 🌸 Overview
+Safe Space is an AI-powered mental health chatbot designed to provide real-time, empathetic, and personalized emotional support for students. It acts as a digital companion offering a safe, anonymous, and judgment-free environment.
 
-## 🎯 Objectives
-- To create a chatbot that understands user emotions
-- To provide supportive and meaningful responses
-- To explore NLP techniques for conversational AI
+---
 
-## ⚙️ Features
-- Text preprocessing
-- Intent recognition
-- Response generation
-- Basic conversational flow
+## 🎯 Problem Statement
+Students face increasing levels of stress, anxiety, and burnout due to academic pressure and post-pandemic challenges. Traditional mental health support systems are limited by:
+- Restricted availability
+- Social stigma
+- Lack of real-time support
+
+Safe Space aims to bridge this gap using AI.
+
+---
+
+## 🚀 Key Features
+- 💬 Real-time conversational AI support  
+- 😊 Mood detection (Anxious, Sad, Calm, etc.)  
+- 🧘 Guided meditation & affirmations  
+- 📓 Journaling with mood tracking  
+- 🔍 Semantic search using FAISS  
+- 🧠 Context-aware responses using LLMs  
+
+---
+
+## 🏗️ System Architecture
+
+### 🔹 Workflow
+1. User Input  
+2. Mood Detection (Mistral via Ollama)  
+3. Text Embedding (Google Embeddings)  
+4. FAISS Semantic Search  
+5. LLM Response Generation (LLaMA 3)  
+6. Personalized Output Display  
+
+---
 
 ## 🛠️ Tech Stack
-- Python
-- Natural Language Processing (NLP)
-- Machine Learning concepts
+- *Languages:* Python  
+- *AI/ML:* NLP, LLMs (LLaMA, Mistral)  
+- *Frameworks:* Streamlit, Django  
+- *Libraries:* LangChain, FAISS  
+- *Tools:* Ollama, Google Embeddings  
+- *Frontend:* HTML, CSS, JavaScript  
 
-## 📸 Project Demonstration
-Screenshots of the chatbot interaction are provided below.
+---
+
+## 📊 Key Achievements
+- Real-time emotionally aware responses  
+- 24/7 availability  
+- Personalized interaction using semantic search  
+- Scalable and modular architecture  
+
+---
+
+## 📸 Project Demo
+(Add your screenshots below)
+
+---
 
 ## 👩‍💻 My Contribution
-- Designed chatbot workflow
-- Worked on preprocessing and response logic
-- Evaluated chatbot performance using accuracy and precision metrics
+- Designed complete chatbot architecture  
+- Worked on NLP pipeline and mood detection  
+- Implemented response generation workflow  
+- Developed UI and user interaction flow  
+
+---
 
 ## ⚠️ Note
-Due to system/data constraints, the complete source code is currently unavailable. This repository serves as a project overview and demonstration.
+Due to system constraints, the full source code is not available. This repository showcases the project architecture, workflow, and outputs.
 
-## 🚀 Future Improvements
-- Integration with LLMs (like GPT)
-- Deployment using Streamlit/Web App
-- Enhanced emotion detection
+---
+
+## 🔮 Future Scope
+- LLM fine-tuning for better personalization  
+- Multilingual support  
+- Offline functionality  
+- Integration with real counselors  
+
+---
+
+## ❤️ Conclusion
+Safe Space provides a scalable, AI-driven solution to mental health challenges, ensuring students receive timely and stigma-free support anytime, anywhere.
