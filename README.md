@@ -83,3 +83,9 @@ Due to system constraints, the full source code is not available. This repositor
 
 ## ❤️ Conclusion
 Safe Space provides a scalable, AI-driven solution to mental health challenges, ensuring students receive timely and stigma-free support anytime, anywhere.
+## 📷 Screenshots
+
+![Home](1.jpeg)
+![Chatbot](5.jpeg)
+![Mood Detection](3.jpeg)
+![Journal](6.jpeg)
